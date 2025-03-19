@@ -1,11 +1,11 @@
-/*
-Develop by iao675 (Aleksei Ivanov)
-*/
+/**
+ * Develop by iao675 (Aleksei Ivanov)
+ */
 "use strict";
-/*
-Тема 19
-⊗jsPmBsMOP
-*/
+/**
+ * Тема 19
+ * ⊗jsPmBsMOP
+ */
 
 //№1
 //let a = 5 + 5 * 3;

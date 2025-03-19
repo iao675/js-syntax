@@ -1,6 +1,6 @@
-/*
-Develop by iao675 (Aleksei Ivanov)
-*/
+/**
+ * Develop by iao675 (Aleksei Ivanov)
+ */
 "use strict";
 /**
  * Теиа 20
