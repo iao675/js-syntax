@@ -3,8 +3,8 @@
  */
 "use strict";
 /**
- * Тема 28
- * ⊗jsPmBsStr
+ * Тема 29
+ * ⊗jsPmBsSC
  */
 
 //#1
