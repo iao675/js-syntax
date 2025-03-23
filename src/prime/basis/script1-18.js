@@ -1,6 +1,3 @@
-/**
- * Develop by iao675 (Aleksei Ivanov)
- */
 "use strict"; //Включенее строго режима
 /**
  * Тема 1 - 18

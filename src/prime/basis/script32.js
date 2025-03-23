@@ -1,6 +1,3 @@
-/**
- * Develop by iao675 (Aleksei Ivanov)
- */
 "use strict";
 /**
  * Тема 32
